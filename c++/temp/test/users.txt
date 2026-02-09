@@ -1,2 +1,0 @@
-reader1|password1|2
-reader2|password2|2
