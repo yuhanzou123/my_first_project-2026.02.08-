@@ -1,0 +1,34 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "iomanip": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "tuple": "cpp",
+        "flat_map": "cpp",
+        "flat_set": "cpp",
+        "format": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp"
+    },
+    "code-runner.runInTerminal": false,
+    "code-runner.clearPreviousOutput": true,
+    "C_Cpp.errorSquiggles": "disabled",
+    "terminal.integrated.env.windows": {//未解决windows用户名为中文导致编译出错二添加环境变量
+        "TMP": "c:\\c++\\temp",//可以修改相关目录不要出现中文和空格
+        "TEMP": "c:\\c++\\temp"//可以修改相关目录不要出现中文和空格
+    },
+}
